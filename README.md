@@ -1,2 +1,2 @@
-# Solved-C-programs
+# Solved-c++-programs
 This repository contains all the programs I've solved on various platforms like codeforces, codechef, etc.
